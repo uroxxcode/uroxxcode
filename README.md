@@ -5,12 +5,5 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ❤️ My website https://uroxx-code.glitch.me/
-- 😘 Click and play my game
-- 👍 Shipped Too Soon
-- [a link](https://github.com/user/repo/blob/branch/other_file.md)
-
-<!---
-uroxxcode/uroxxcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ❤️ [My Website](https://uroxx-code.glitch.me)
+- 😘 [Shipped Too Soon](https://uroxx-code.glitch.me/game/shipped.html)
